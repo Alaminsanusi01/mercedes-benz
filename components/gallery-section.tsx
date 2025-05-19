@@ -13,7 +13,7 @@ const galleryImages = [
     description: "The pinnacle of luxury and innovation",
   },
   {
-    src: "E-Class coupe.jpg",
+    src: "E-Class Coupe.JPG",
     alt: "Mercedes-Benz E-Class Coupe",
     title: "E-Class Coupe",
     description: "Elegant sportiness with cutting-edge technology",
@@ -43,7 +43,7 @@ const galleryImages = [
     description: "Compact luxury with premium features",
   },
   {
-    src: "G-Class suv.jpeg",
+    src: "G-Class SUV.JPEG",
     alt: "Mercedes-Benz G-Class SUV",
     title: "G-Class SUV",
     description: "Iconic design with unmatched capability",

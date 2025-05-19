@@ -262,7 +262,7 @@ export default function Home() {
               </div>
               <div className="relative">
                 <Image
-                  src="C300.JPEG"
+                  src="NEW.JPEG"
                   alt="Mercedes-Benz Luxury Interior"
                   width={800}
                   height={600}
