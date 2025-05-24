@@ -187,7 +187,7 @@ export default function Home() {
           <div className="container">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center " >
               <div className="space-y-6">
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Designed for Excellence</h2>
+                <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl"></h2>
                 <p className="text-lg text-muted-foreground">
                   Every Mercedes-Benz vehicle is crafted with meticulous attention to detail, combining timeless
                   elegance with modern innovation. Our design philosophy embraces both aesthetic beauty and functional

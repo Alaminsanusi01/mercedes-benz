@@ -262,7 +262,7 @@ export default function Home() {
               </div>
               <div className="relative">
                 <Image
-                  src="/NEW.JPEG"
+                  src="01.JPEG"
                   alt="Mercedes-Benz Luxury Interior"
                   width={800}
                   height={600}
@@ -670,7 +670,7 @@ export default function Home() {
           </div>
           <div className="border-t mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-xs text-muted-foreground">
-              &copy; {new Date().getFullYear()} Developed by Alamin sanusi.
+              &copy; {new Date().getFullYear()} Developed by Alamin sanusi. 
             </p>
             <div className="flex flex-wrap gap-4 mt-4 md:mt-0">
               <Link href="#" className="text-xs text-muted-foreground hover:text-foreground">
