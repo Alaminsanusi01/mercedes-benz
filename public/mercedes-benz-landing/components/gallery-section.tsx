@@ -13,7 +13,7 @@ const galleryImages = [
     description: "The pinnacle of luxury and innovation",
   },
   {
-    src: "/gallery/mercedes-2.jpg",
+    src: "E-Class coupe.JPG",
     alt: "Mercedes-Benz E-Class Coupe",
     title: "E-Class Coupe",
     description: "Elegant sportiness with cutting-edge technology",
@@ -43,7 +43,7 @@ const galleryImages = [
     description: "Compact luxury with premium features",
   },
   {
-    src: "/gallery/mercedes-7.jpg",
+    src: "S-Class.JPG",
     alt: "Mercedes-Benz G-Class SUV",
     title: "G-Class SUV",
     description: "Iconic design with unmatched capability",
@@ -79,7 +79,7 @@ export function GallerySection() {
     <section id="gallery" className="py-20 bg-muted/30">
       <div className="container">
         <div className="flex flex-col items-center text-center mb-12">
-          <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Explore Our Collection</h2>
+          <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl"></h2>
           <p className="mt-4 text-xl text-muted-foreground max-w-3xl">
             Discover the full range of Mercedes-Benz vehicles, each a masterpiece of engineering and design
           </p>
