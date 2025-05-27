@@ -13,7 +13,7 @@ const galleryImages = [
     description: "The pinnacle of luxury and innovation",
   },
   {
-    src: "03.JPEG",
+    src: "/eclass03.jpg",
     alt: "Mercedes-Benz E-Class Coupe",
     title: "E-Class Coupe",
     description: "Elegant sportiness with cutting-edge technology",
