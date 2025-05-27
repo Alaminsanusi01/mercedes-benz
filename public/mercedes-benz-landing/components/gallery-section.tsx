@@ -43,7 +43,7 @@ const galleryImages = [
     description: "Compact luxury with premium features",
   },
   {
-    src: "/02.jpeg",
+    src: "02.jpeg",
     alt: "Mercedes-Benz G-Class SUV",
     title: "G-Class SUV",
     description: "Iconic design with unmatched capability",
